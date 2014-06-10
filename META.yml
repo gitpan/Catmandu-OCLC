@@ -27,10 +27,11 @@ requires:
   Catmandu: '0.9202'
   LWP::Simple: '6.00'
   Moo: '1.0'
+  REST::Client: '271'
   URI::Escape: '1.60'
   perl: v5.10.1
 resources:
   bugtracker: https://github.com/LibreCat/Catmandu-OCLC/issues
   homepage: https://github.com/LibreCat/Catmandu-OCLC
   repository: https://github.com/LibreCat/Catmandu-OCLC.git
-version: '0.002'
+version: '0.003'
