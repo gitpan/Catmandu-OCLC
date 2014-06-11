@@ -6,7 +6,7 @@ Catmandu::OCLC - Catmandu modules for working with OCLC web services
 
 =cut
 
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 =head1 SYNOPSIS
 
@@ -18,6 +18,8 @@ our $VERSION = '0.003';
 =over
 
 =item * L<Catmandu::Fix::xID>
+
+=item * L<Catmandu::Fix::viaf_read>
 
 =back
 

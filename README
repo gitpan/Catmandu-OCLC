@@ -8,6 +8,8 @@ SYNOPSIS
 MODULES
     *   Catmandu::Fix::xID
 
+    *   Catmandu::Fix::viaf_read
+
 DESCRIPTION
     With Catmandu, LibreCat tools abstract digital library and research
     services as data warehouse processes. As stores we reuse MongoDB or
