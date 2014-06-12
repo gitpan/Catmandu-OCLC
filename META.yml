@@ -34,4 +34,4 @@ resources:
   bugtracker: https://github.com/LibreCat/Catmandu-OCLC/issues
   homepage: https://github.com/LibreCat/Catmandu-OCLC
   repository: https://github.com/LibreCat/Catmandu-OCLC.git
-version: '0.004'
+version: '0.005'
